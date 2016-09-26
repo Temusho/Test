@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="my_tb_title">Temusho\'s Corner</string>
+    <string name="my_tb_subtitle">Who is she?</string>
+    <string name="my_menu">Temusho</string>
+    <string name="option_2">Sakwane</string>
+    <string name="searchable">Searchable</string>
+    <string name="search">Search</string>
+</resources>
