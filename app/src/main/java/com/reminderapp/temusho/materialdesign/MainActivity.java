@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setTitle(R.string.my_tb_title);
         getSupportActionBar().setSubtitle(R.string.my_tb_subtitle);
         getSupportActionBar().setIcon(R.drawable.ic_action_name);
-
+      //change
         Intent searchIntent = getIntent();
         if(Intent.ACTION_SEARCH.equals(searchIntent.getAction())){
             String query = searchIntent.getStringExtra(SearchManager.QUERY);
